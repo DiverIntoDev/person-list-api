@@ -1,13 +1,16 @@
 
-
-    {
-        "points": 479,
-        "_id": "60463b708849a83d8c856ba8",
-        "name": "João Vitor da Silva",
-        "secondName": "Fernandes",
-        "cel": 997484648,
-        "birth": "2021-03-08T00:00:00.000Z",
-        "createdAt": "2021-03-08T14:57:52.582Z",
-        "__v": 0
+{
+    "schedule": 
+        {
+            "points": 479,
+            "_id": "60463b708849a83d8c856ba8",
+            "name": "João Vitor da Silva",
+            "secondName": "Fernandes",
+            "cel": 997484648,
+            "birth": "2021-03-08T00:00:00.000Z",
+            "createdAt": "2021-03-08T14:57:52.582Z",
+            "__v": 0
+        }
     }
+}
 
